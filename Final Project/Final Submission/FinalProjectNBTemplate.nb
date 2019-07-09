@@ -10,20 +10,21 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      2590,         74]
-NotebookOptionsPosition[      1618,         45]
-NotebookOutlinePosition[      2426,         72]
-CellTagsIndexPosition[      2383,         69]
+NotebookDataLength[      2621,         75]
+NotebookOptionsPosition[      1649,         46]
+NotebookOutlinePosition[      2457,         73]
+CellTagsIndexPosition[      2414,         70]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["3D Cellular Automaton", "Title",
+Cell[" 3D Cellular Automaton", "Title",
  CellChangeTimes->{{3.770055572438499*^9, 3.7700555729498453`*^9}, {
-  3.770055604008165*^9, 3.7700556066618843`*^9}, {3.77161909733414*^9, 
-  3.771619130964058*^9}},ExpressionUUID->"49ab34ee-bfd5-49f5-beef-\
+   3.770055604008165*^9, 3.7700556066618843`*^9}, {3.77161909733414*^9, 
+   3.771619130964058*^9}, 
+   3.7716191908324757`*^9},ExpressionUUID->"49ab34ee-bfd5-49f5-beef-\
 400d3cc456dd"],
 
 Cell["Adrienne Lai", "Text",
@@ -72,9 +73,9 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 262, 4, 98, "Title",ExpressionUUID->"49ab34ee-bfd5-49f5-beef-400d3cc456dd"],
-Cell[845, 28, 400, 6, 35, "Text",ExpressionUUID->"94536f76-3fd2-4bf6-b228-fa93ec9acae9"],
-Cell[1248, 36, 354, 6, 35, "Text",ExpressionUUID->"b70c649b-a958-4202-9f22-238ea1f9c7d4"]
+Cell[580, 22, 293, 5, 98, "Title",ExpressionUUID->"49ab34ee-bfd5-49f5-beef-400d3cc456dd"],
+Cell[876, 29, 400, 6, 35, "Text",ExpressionUUID->"94536f76-3fd2-4bf6-b228-fa93ec9acae9"],
+Cell[1279, 37, 354, 6, 35, "Text",ExpressionUUID->"b70c649b-a958-4202-9f22-238ea1f9c7d4"]
 }, Open  ]]
 }
 ]
